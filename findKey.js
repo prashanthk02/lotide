@@ -33,5 +33,5 @@ const j = findKey({
   "Akelarre":  { stars: 3 }
 }, x => x.stars === 4);
 
-assertEqual(k, "noma");
-assertEqual(j, "Blue Hill");
+assertEqual(k, "noma"); // noma
+assertEqual(j, "Blue Hill"); //undefined
