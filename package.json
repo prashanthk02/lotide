@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@prashanthk02/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini clone of lodash, project by Prashanth",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/prashanthk02/lotide.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Prashanth K",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/prashanthk02/lotide/issues"
