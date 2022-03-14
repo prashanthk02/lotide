@@ -14,9 +14,8 @@ const middle = function(arr) {
   } else if(len > 2 && len % 2 === 0) {
     midArr.push(arr[midIndex - 1])
     midArr.push(arr[midIndex])
-    midArr
   }
- console.log(midArr)
+  return midArr;
 };
 
 // middle([1])
